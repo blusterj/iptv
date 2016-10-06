@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>	
+<playlist_name>Klavišų fukcijos</playlist_name> 
+<channel>
+	<title>Standartinės funkcijos</title>
+	<playlist_url>stop</playlist_url>
+	<description><![CDATA[<table><table><td><img src="img/buttons/0_9.png" /></td><td> - Kanalo № pleiliste.</td></table><table><td> "PRE-CH" - Grįžti į praeitą kanalą.</td></table><table><td> "VoI +", " Vol -" - Garso reguliavimas.</td></table><table><td> "MUTE" -  Garso išjungimas</td></table><table><td> "MENU" - Standartinis TV meniu.</td></table><table><td><img src="img/buttons/back.png" /></td><td> - Grįžti atgal.</td></table><table><td><img src="img/buttons/exit.png" /></td><td> "EXIT" -  Išėjimas iš programos.</td></table><table>"AD/SUBT" - Garso takelis, jei įmanoma.</table></table>]]></description>
+</channel>
+<channel>
+	<title>"Grojaraštis"</title>
+	<playlist_url>stop</playlist_url>
+	<description><![CDATA[<table><table><td><img src="img/buttons/tools.png" /></td><td>"TOOLS" - Programos nustatymai.</td></table><table><td><img src="img/buttons/move.png" /></td><td> - Judėti po kanalus ir puslapius.</td></table><table><td><img src="img/buttons/enter.png" /></td><td>"ENTER" - Paleisti grotuvą.</td></table><table><td><img src="img/buttons/back.png" /></td><td> "RETURN" - Prieš tai buvęs grojaraštis.</td></table><table><td><img src="img/buttons/exit.png" /></td><td> "EXIT" - Stop, jeigu veikia grotuvas.</td></table><table><td><img src="img/buttons/red.png" /></td><td> - Išsirinkti grojaraščio kategoriją.</td></table><table><td><img src="img/buttons/green.png" /><img src="img/buttons/yellow.png" /><img src="img/buttons/blue.png" /></td><td>- pridėti,atidaryti,redag. mėgst.</td></table><table><td><img src="img/buttons/info.png" /></td><td> "INFO" - Pagalba !</td></table><table><td> "P+", "P-" - Judinti papildomą informaciją.</td></table><table><td><img src="img/buttons/rew.png" /><img src="img/buttons/ff.png" /></td><td> - Programa EPG gide "diena - ", "diena + ".</td></table><table><td><img src="img/buttons/play.png" /></td><td> - Programa EPG gide- visa diena.</td></table><table><td><img src="img/buttons/stop.png" /></td><td> - Stop, arba adreso vedimas.</td></table><table><td>"GUIDE" - EPG gidas.</td></table></table>]]></description>
+</channel>
+<channel>
+	<title>"IPTV, WebTV rodymas"</title>
+	<playlist_url>stop</playlist_url>
+	<description><![CDATA[<table><table><td><img src="img/buttons/tools.png" /></td><td>"TOOLS" - Servisas ("D" "E" ir "F" serijai).</td></table><table><td><img src="img/buttons/info.png" /></td><td> "INFO" - Grotuvo panelė.</td></table><table><td><img src="img/buttons/ud.png" /></td><td> "P+", "P-" - Kanalų, filmų perjungimas.</td></table><table><td><img src="img/buttons/lr.png" /></td><td> - Garso reguliavimas.</td></table><table><td><img src="img/buttons/back.png" /></td><td> "RETURN" - Grįžti į kanalų sarašą.</td></table><table><td><img src="img/buttons/exit.png" /></td><td> "EXIT" - Stop, grįžti į grojaraštį.</td></table><table><td><img src="img/buttons/green.png" /><img src="img/buttons/yellow.png" /></td><td> - Garso ir vaizdo nustatymai.</td></table><table><td><img src="img/buttons/blue.png" /></td><td> - Vaizdo kraštinių santykis. </td></table><table><td><img src="img/buttons/play.png" /></td><td> -  Perleisti grotuvą.</td></table></table>]]></description>
+</channel>
+<channel>
+	<title>"Mediafailų atkūrimas"</title>
+	<playlist_url>stop</playlist_url>
+	<description><![CDATA[<table><table><td><img src="img/buttons/0_9.png" /></td><td> - Šuolis % от 0 - 100 % .</td></table><table><td><img src="img/buttons/ud.png" /></td><td> "P+", "P-" - Perjungimas į kitą failą.</td></table><table><td><img src="img/buttons/tools.png" /></td><td>"TOOLS" - Servisas ("D", "E" и "F" serijoms)</td></table><table><td><img src="img/buttons/info.png" /></td><td> "INFO" - Grotuvo panelė.</td></table><table><td><img src="img/buttons/back.png" /></td><td> "RETURN" - Grįžti į grojaraštį.</td></table><table><td><img src="img/buttons/exit.png" /></td><td> "EXIT" Stop, grįžti į grojaraštį.</td></table><table><td><img src="img/buttons/green.png" /><img src="img/buttons/yellow.png" /></td><td> - Garso ir vaizdo nustatymai.</td></table><table><td><img src="img/buttons/enter.png" /></td><td>"ENTER" - Pauzė, rodyti.</td></table><table><td>Persukimas : </td><td><img src="img/buttons/lr.png" /></td><td>+/- 2 min. , </td><td><img src="img/buttons/help_ff_rew.png" /></td><td>+/- 30 sek.</td></table><table><td><img src="img/buttons/pause.png" /></td><td> - Pauzė,</td><td><img src="img/buttons/play.png" /></td><td> - Testi,</td><td><img src="img/buttons/stop.png" /></td><td> - Stop.</td></table><table><td><img src="img/buttons/play.png" /></td><td> - Autogrotuvas.</td></table><table><td><img src="img/buttons/blue.png" /></td><td> - Vaizdo kraštinių santykis.</td></table>]]></description>
+</channel>		
+</items>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>STARTINIS GROJARAŠTIS</playlist_name> 
+<category>
+	<category_id>1</category_id>
+	<category_title>Nemokami grojaraščiai</category_title>
+</category>
+<category>
+	<category_id>2</category_id>
+	<category_title>Mokami grojaraščiai</category_title>
+</category>	
+<category>
+	<category_id>3</category_id>
+	<category_title>Grojaraštis iš USB</category_title>
+</category>
+<category>
+	<category_id>4</category_id>
+	<category_title>Tuščios pozicijos</category_title>
+</category>
+<category>
+	<category_id>5</category_id>
+	<category_title>Favoritai</category_title>
+</category>
+<channel>
+	<title><![CDATA[<font color="#888888">Autoriai ir Naujienos</font>]]></title>
+	<logo><![CDATA[http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/glossy-black-icons-people-things/062614-glossy-black-icon-people-things-people-worker.png]]></logo>
+	<playlist_url>help.xml</playlist_url>
+	<description><![CDATA[<table>IPTVGrotuvas, tai buvęs FIOKOM-o nStreamLmod.</table><table>Į lietuvių kalbą išvertė <font color="#00ccff">openbox</font>. Forumo <font color="#00ccff">openbox.info</font> administratoriaus sutikimu toliau programą pagal galimybes tobulinsiu aš, <font color="#00ccff">chiapa</font>. Norintiems už darbą pastatyti pintą <font color="#00ccff">alaus</font>:</table><table>PayPal : <font color="green">chiapa1@gmail.com</font></table><table>Pagalba, spauskite klavišą "<font color="#00ccff">ENTER</font>".</table><table>/\=======================================\/</table><table>Kas naujo:</table><table>Naujas Cvyko serveris;<br> Yandex EPG;<br> QWERTY klaviatūra (neveikia su "<font color="#ffcc55">C ir D</font>" serijos televizoriais)</table>]]></description>	
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00cccc">ISTORIJA</font>]]></title>
+	<logo><![CDATA[http://www.veryicon.com/icon/png/System/Rhor%20v2%20Part%202/URL%20History.png]]></logo>
+	<playlist_url>OpenHistory</playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/history.png" height="128" width="128"></img></td><td><h2> - = ISTORIJA = - </h2></td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#5555ff">Mėgiamiausi</font>]]></title>
+	<logo><![CDATA[http://files.softicons.com/download/system-icons/crystal-project-icons-by-everaldo-coelho/ico/apps/package_favorite.ico]]></logo>
+	<playlist_url>OpenFav</playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/favorite.png" height="128" width="128"></img></td><td><h2> - = MĖGIAMIAUSI = - </h2></td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#ffcc00">Cvyko</font> Portalas]]></title>
+	<logo><![CDATA[http://91.211.247.118/enigma2/logo/cvykas.png]]></logo>
+	<playlist_url>http://91.211.247.118/start_virtual.php</playlist_url>
+	<description><![CDATA[<b style="font-size:20px;">Forumiečio cvyko LT portalas</b><br>===========================================<table><tr><td style="vertical-align: top"><img src="logos/cvykas.png" height="128" width="128"/></td><td>Video įrašai!<h1>Cvyko LT portalas</h1><td></tr></table>===========================================]]></description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#ffcc88">Žiūrovų </font>Klubas]]></title>
+	<logo><![CDATA[http://www.iconarchive.com/download/i47174/icons-land/vista-people/Occupations-Film-Maker-Male-Light.ico]]></logo>
+	<playlist_url>http://openbox.info/cinema.xml</playlist_url>
+	<description><![CDATA[<b style="font-size:20px;">Nemokami filmai dubliuoti lietuvių kalba</b><br>===========================================<table><tr><td style="vertical-align: top"><img src="logos/cinema.png" height="128" width="128"/></td><td>Internete patalpintų filmų sąrašas!<h1>Kinas</h1><td></tr></table>===========================================]]></description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title><![CDATA[Mūsų <font color="#00ccff">Video</font>]]></title>
+	<logo><![CDATA[http://www.iconarchive.com/download/i22894/kyo-tux/phuzion/Folder-Blue-Video.ico]]></logo>
+	<playlist_url>http://openbox.info/start.xml</playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/lt.png" height="128" width="128"/></td><td>Laidos, reportažai, įrašai<h2>Lietuviški Video</h2></td></table>===========================================]]></description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+      	<title><![CDATA[<font color="#aacc00">Nuorodos</font>]]></title>
+      	<logo><![CDATA[http://www.piwo.pwr.wroc.pl/wordpress/wp-content/archiwum/PIWO4/grafika/ico_map1.png]]></logo>
+      	<playlist_url>http://nstream.ucoz.ru/portal/linkslt.xml</playlist_url>
+      	<description><![CDATA[<img src="logos/link.png"></img><table style="font-size:20px;"><tr><td>Įvairios nuorodos į portalus</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table><table><tr><td style="vertical-align: top"></td><td>Čia galima dėti veikiančias nuorodas į portalus. Siūlykite forume.</h1><td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00ccff">Muzika</font>]]></title>
+	<logo><![CDATA[http://png-2.findicons.com/files/icons/1734/brilliant_players/256/music_file.png]]></logo>
+	<playlist_url>http://openbox.info/music.xml</playlist_url>
+	<description><![CDATA[<b style="font-size:20px;">Koncertai ir video klipai</b><br>===========================================<table><tr><td style="vertical-align: top"><img src="logos/music.png" height="128" width="128"/></td><td>Internete patalpintų klipų ir koncertų sąrašas!<h1>Muzika</h1><td></tr></table>===========================================]]></description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00ccff">Radijas</font>]]></title>
+	<logo><![CDATA[http://www.appshat.com/thumbnails/icon/images/assets/6/b/6bb8f5a04bc2806b2dc313b751720513.png]]></logo>
+	<playlist_url>http://openbox.info/radio.xml</playlist_url>
+	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/radio.png" height="128" width="128"/></td><td><h1>Radio Stotys </h1></td></table>=========================================== ]]></description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00ccff">USB</font> Skeneris]]></title>
+	<logo><![CDATA[http://www.iconarchive.com/download/i7954/hopstarter/soft-scraps/USB.ico]]></logo>
+	<playlist_url>ScanUSB</playlist_url>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td><h2>USB atmintuke esančių failų ir katalogų peržiūra.</h2></td></tr></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00ccff">".xml"</font> - grojaraštis iš USB]]></title>
+	<logo><![CDATA[http://www.iconarchive.com/download/i7954/hopstarter/soft-scraps/USB.ico]]></logo>
+	<playlist_url>usb/nStream.xml</playlist_url>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td> Grojaraštis iš USB atmintuko ! <h2>nStream.xml</h2></td></tr></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>Pavadinkite savo grojaraštį " nStream.xml " , nukopijuokite jį į USB ir prijunkite prie televizoriaus.]]></description>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00ccff">".m3u"</font> - grojaraštis iš USB]]></title>
+	<logo><![CDATA[http://www.iconarchive.com/download/i7954/hopstarter/soft-scraps/USB.ico]]></logo>
+	<playlist_url>usb/nStream.m3u</playlist_url>
+	<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="logos/usb_logo.png" height="128" width="128"></img></td><td> Grojaraštis iš USB atmintuko ! <h2>nStream.m3u</h2></td></tr></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>Pavadinkite savo grojaraštį " nStream.m3u " , nukopijuokite jį į USB ir prijunkite prie televizoriaus.]]></description>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title><![CDATA[<font color="#00cccc">"WebTV Test"</font> grojaraštis]]></title>
+	<logo><![CDATA[http://www.androidmarket.cz/wp-content/uploads/2011/06/ico-Web-TV-for-Android.png]]></logo>
+	<playlist_url>http://nstream.ucoz.ru/portal/webtvtest.xml</playlist_url>
+	<description><![CDATA[<table style="font-size:20px;"><tr><td>Testinis grojaraštis su EPG</td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table><table><tr><td style="vertical-align: top"><img src="logos/webtv.png" height="128" width="128"></img></td><td>Čia testuojame įvairius video formatus ir svetaines. Transliacija nepastovi.</h1><td></tr></table><table style="width:100%; padding-top:4px;padding-bottom:4px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
+	<category_id>1</category_id>
+</channel>
+
+</items>

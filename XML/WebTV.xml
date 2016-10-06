@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>None</playlist_name>
+
+
+	<channel>
+			<title>RBC</title>
+			<stream_url><![CDATA[http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8]]></stream_url>
+			<logo></logo>
+			<description></description>
+	</channel>
+
+
+	<channel>
+			<title>24, World</title>
+			<stream_url><![CDATA[http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8]]></stream_url>
+			<logo></logo>
+			<description></description>
+	</channel>
+
+
+	<channel>
+			<title>Country</title>
+			<stream_url><![CDATA[http://hls.novotelecom.ru/streaming/strana/tvrec/playlist.m3u8]]></stream_url>
+			<logo></logo>
+			<description></description>
+	</channel>
+
+
+	<channel>
+			<title>CNN</title>
+			<stream_url><![CDATA[http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8]]></stream_url>
+			<logo>http://avatars.yandex.net/get-tv-shows/1333713885594M39785/orig</logo>
+			<description>495</description>
+	</channel>
+
+
+	<channel>
+			<title>Euronews</title>
+			<stream_url><![CDATA[http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8]]></stream_url>
+			<logo>http://avatars.yandex.net/get-tv-shows/1333715732773M76213/orig</logo>
+			<description>23</description>
+	</channel>
+
+
+	<channel>
+			<title>Russiatoday</title>
+			<stream_url><![CDATA[http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8]]></stream_url>
+			<logo>http://avatars.yandex.net/get-tv-shows/1333715418331M42818/orig</logo>
+			<description>313</description>
+	</channel>
+
+
+</items>

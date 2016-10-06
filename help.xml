@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<playlist_name>Pagalba</playlist_name> 
+
+<channel>
+	<title>Programos paskirtis</title>
+	<playlist_url>stop</playlist_url>
+	<description><![CDATA[<table><font color="#00ccff"> IPTVGrotuvas</font> - tai nemokama programa</table><table>televizorių Samsung serijoms "<font color="#00ccff">C</font>" su funkcija <font color="#00ccff">Internet@TV</font> ir serijoms "<font color="#00ccff">D</font>", "<font color="#00ccff">E</font>" и "<font color="#00ccff">F</font>" su funkcija  <font color="#00ccff">SmartHub</font>.</table><table> Pagrindinė paskirtis - tai <font color="#00ccff">IPTV</font>, <font color="#00ccff">WebTV</font> ir <font color="#00ccff">VOD</font> mediafailų rodymas internetu.</table>]]></description>	
+</channel>
+<channel>
+	<title>Klavišai ir funkcijos</title>
+	<playlist_url>2help.xml</playlist_url>
+	<description><![CDATA[<table>Egzistuoja 3 pagrindinės grotuvo būsenos:</table><table> 1) "Grojaraštis"</table><table> 2) "IPTV, WebTV "stream" atkųrimas"</table><table> 3) "Mediafailų atkųrimas internete ir iš USB"</table><table>Pagrindinės klavišų funkcijos atitinka </table><table> originalioms, na o kai kurios, pagal poreikį gali keistis!</table><table> Kad pasiskaityti funkcijų aprašymus spauskite "ENTER"!</table>]]></description>	
+</channel>	
+<channel>
+	<title>Savas grojaraštis</title>
+	<playlist_url>http://fiowidget.narod.ru/help/1help.xml</playlist_url>
+	<description><![CDATA[<table> <font color="#00ccff"> IPTVGrotuvas </font> gali veikti su<font color="#00ccff"> ".xml" и "m3u"</font></table><table> grojaraščiais. </table><table> Pasižiūrėti aprašymus rusiškai, spauskite </table><table> kursoriaus vidurinį klavišą "<font color="#00ccff">ENTER</font>".</table>]]></description>	
+</channel>			
+<channel>
+	<title>Kur kreiptis, iškilus klausimams?</title>
+	<playlist_url>stop</playlist_url> 
+	<description><![CDATA[<table>Forumas lietuvių kalba: ''http://www.openbox.info/forum/viewtopic.php?f=74&t=15471''</table><table>Patarimas: prieš rašydami, viską atidžiai perskaitykite.</table>]]></description>	
+</channel>		
+</items>
