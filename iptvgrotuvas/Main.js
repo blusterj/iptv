@@ -3752,6 +3752,7 @@ KeyHandler.VODPlayerKeyDown = function() {
         case 655:
         case 1089:
         case tvKey.KEY_SUBTITLE:
+            Display.status("KEY_SUBTITLE", 1000)
             Player.SEFSetNextAudioStream();
             break;
         default:
@@ -4831,7 +4832,7 @@ ChannelSetupFormular = function() {
     }
     var f = Ach(3);
     if (f.length >= 1000) {
-        f = "Neįmanoma redaguoti ! Perdidelis dydis."
+        f = "Neįmanoma redaguoti ! Per didelis dydis."
     }
     var d = [];
     var k = parseInt(f.length / 100);
