@@ -25,7 +25,7 @@
 	<title><![CDATA[<font color="#888888">Autoriai ir Naujienos</font>]]></title>
 	<logo><![CDATA[http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/glossy-black-icons-people-things/062614-glossy-black-icon-people-things-people-worker.png]]></logo>
 	<playlist_url>help.xml</playlist_url>
-	<description><![CDATA[<table>IPTVGrotuvas, tai buvęs FIOKOM-o nStreamLmod.</table><table>Į lietuvių kalbą išvertė <font color="#00ccff">openbox</font>. Forumo <font color="#00ccff">openbox.info</font> administratoriaus sutikimu toliau programą pagal galimybes tobulinsiu aš, <font color="#00ccff">chiapa</font>. Norintiems už darbą pastatyti pintą <font color="#00ccff">alaus</font>:</table><table>PayPal : <font color="green">chiapa1@gmail.com</font></table><table>Pagalba, spauskite klavišą "<font color="#00ccff">ENTER</font>".</table><table>/\=======================================\/</table><table>Kas naujo:</table><table>Naujas Cvyko serveris;<br> Yandex EPG;<br> QWERTY klaviatūra (neveikia su "<font color="#ffcc55">C ir D</font>" serijos televizoriais)</table>]]></description>	
+	<description><![CDATA[<table>IPTVGrotuvas, tai buvęs FIOKOM-o nStreamLmod.</table><table>Į lietuvių kalbą išvertė <font color="#00ccff">openbox</font>. O nagus prikišo ir Tautvydas. Forumo <font color="#00ccff">openbox.info</font> administratoriaus sutikimu toliau programą pagal galimybes tobulinsiu aš, <font color="#00ccff">chiapa</font>. Norintiems už darbą pastatyti pintą <font color="#00ccff">alaus</font>:</table><table>PayPal : <font color="green">chiapa1@gmail.com</font></table><table>Pagalba, spauskite klavišą "<font color="#00ccff">ENTER</font>".</table><table>/\=======================================\/</table><table>Kas naujo:</table><table>Naujas Cvyko serveris;<br> Yandex EPG;<br> QWERTY klaviatūra (neveikia su "<font color="#ffcc55">C ir D</font>" serijos televizoriais)</table>]]></description>
 </channel>
 <channel>
 	<title><![CDATA[<font color="#00cccc">ISTORIJA</font>]]></title>
@@ -40,13 +40,6 @@
 	<playlist_url>OpenFav</playlist_url>
 	<description><![CDATA[<table><td style="vertical-align: top"><img src="logos/favorite.png" height="128" width="128"></img></td><td><h2> - = MĖGIAMIAUSI = - </h2></td></table><table style="width:100%; padding-top:3px;padding-bottom:3px;"><tr height="4px" bgcolor="#cccccc"><td></td></tr></table>]]></description>
 	<category_id>5</category_id>
-</channel>
-<channel>
-	<title><![CDATA[<font color="#ffcc00">Cvyko</font> Portalas]]></title>
-	<logo><![CDATA[http://91.211.247.118/enigma2/logo/cvykas.png]]></logo>
-	<playlist_url>http://91.211.247.118/start_virtual.php</playlist_url>
-	<description><![CDATA[<b style="font-size:20px;">Forumiečio cvyko LT portalas</b><br>===========================================<table><tr><td style="vertical-align: top"><img src="logos/cvykas.png" height="128" width="128"/></td><td>Video įrašai!<h1>Cvyko LT portalas</h1><td></tr></table>===========================================]]></description>
-	<category_id>1</category_id>
 </channel>
 <channel>
 	<title><![CDATA[<font color="#ffcc88">Žiūrovų </font>Klubas]]></title>

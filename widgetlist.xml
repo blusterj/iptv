@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rsp stat="ok">
+  <list>
+  <widget id="IPTVGrotuvas">
+    <title>IPTVGrotuvas</title>
+    <compression size="1401601" type="zip" />
+    <description>IPTVGrotuvas.zip (1401601)</description>
+    <download>http://192.168.1.210/widget/IPTVGrotuvas.zip</download>
+  </widget>
+  </list>
+</rsp>
