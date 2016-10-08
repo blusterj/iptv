@@ -3482,7 +3482,7 @@ KeyHandler.LivePlayerKeyDown = function() {
                 Display.status("Neprieinama!", 500)
             }
             break;
-        case tvKey.KEY_RW:
+        case tvKey.KEY_YELLOW:
             widgetAPI.blockNavigation(event);
             if (Main.PlayerMode == "1") {
                 if (Main.epg_info_step > 0) {
@@ -3506,6 +3506,7 @@ KeyHandler.LivePlayerKeyDown = function() {
             break;
         case 655:
         case 1089:
+        case tvKey.KEY_RED:
         case tvKey.KEY_SUBTITLE:
             if (Main.PlayerMode == "1") {
                 Player.SEFSetNextAudioStream()
@@ -3752,7 +3753,6 @@ KeyHandler.VODPlayerKeyDown = function() {
         case 655:
         case 1089:
         case tvKey.KEY_SUBTITLE:
-            Display.status("KEY_SUBTITLE", 1000)
             Player.SEFSetNextAudioStream();
             break;
         default:
